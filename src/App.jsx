@@ -1,10 +1,10 @@
 import Counter from "./Counter";
-import MyComponent2 from "./MyComponent2";
+import MyComponent4 from "./MyComponent4";
 
 function App() {
   return (
     <>
-      <MyComponent2 />
+      <MyComponent4 />
     </>
   );
 }
